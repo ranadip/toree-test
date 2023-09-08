@@ -4,7 +4,7 @@ This is a test setup to troubleshoot Toree as mentioned in https://github.com/ap
 
 
 To build using Maven:
-> mvn assembly
+> mvn package
 
 To build using Sbt
 > sbt assembly
